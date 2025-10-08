@@ -1,0 +1,5 @@
+# Python dependencies for database management and FastAPI backend
+pymongo
+python-dotenv
+fastapi
+uvicorn
